@@ -45,10 +45,6 @@ git clone https://github.com/your_username/Diabetes_Prediction.git
 cd Diabetes_Prediction
 ```
 
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
 ### Run the Jupyter Notebook
 ```bash
